@@ -1,0 +1,10 @@
+
+=== STRUK PEMBAYARAN ===
+Mie Goreng x1 = Rp 14.000
+Nasi Goreng x1 = Rp 15.000
+---
+Subtotal      : Rp 29.000
+Pajak 10%     : Rp 2.900
+Biaya Layanan : Rp 20.000
+---
+TOTAL         : Rp 51.900

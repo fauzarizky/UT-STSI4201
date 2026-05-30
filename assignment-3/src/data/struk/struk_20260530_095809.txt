@@ -1,0 +1,9 @@
+
+=== STRUK PEMBAYARAN ===
+Nasi Goreng x1 = Rp 15.000
+---
+Subtotal      : Rp 15.000
+Pajak 10%     : Rp 1.500
+Biaya Layanan : Rp 20.000
+---
+TOTAL         : Rp 36.500

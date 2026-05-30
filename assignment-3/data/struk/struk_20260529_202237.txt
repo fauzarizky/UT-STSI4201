@@ -1,0 +1,12 @@
+
+=== STRUK PEMBAYARAN ===
+Mie Goreng x1 = Rp 14.000
+Sate Ayam x3 = Rp 66.000
+[Promo] Promo Akhir Pekan - Diskon 15%
+---
+Subtotal      : Rp 80.000
+Diskon        : -Rp 12.000
+Pajak 10%     : Rp 6.800
+Biaya Layanan : Rp 20.000
+---
+TOTAL         : Rp 94.800

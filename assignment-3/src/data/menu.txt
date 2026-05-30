@@ -1,0 +1,10 @@
+MAKANAN|Nasi Goreng|15000.0|Makanan|Nasi
+MAKANAN|Mie Goreng|14000.0|Makanan|Mie
+MAKANAN|Ayam Bakar|25000.0|Makanan|Ayam
+MAKANAN|Sate Ayam|22000.0|Makanan|Ayam
+MINUMAN|Es Teh|8000.0|Minuman|Dingin
+MINUMAN|Jus Jeruk|12000.0|Minuman|Dingin
+MINUMAN|Kopi|10000.0|Minuman|Panas
+MINUMAN|Air Mineral|6000.0|Minuman|Dingin
+DISKON|Promo Akhir Pekan|0.0|Diskon|0.15
+MAKANAN|tes 1|1000.0|Makanan|Nasi
